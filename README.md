@@ -30,6 +30,8 @@ WalletAndSoul.yyp — main project file.
 
 /rooms — levels and menus.
 
+Download the latest version here! https://elementalsam.itch.io/wallet-and-soul
+
 The main menu, featuring a randomly selected splash text in the center.
 <img width="1920" height="1080" alt="Screenshot (1009)" src="https://github.com/user-attachments/assets/b54a42f7-0439-4da1-b11c-4c2b468b44ec" />
 
