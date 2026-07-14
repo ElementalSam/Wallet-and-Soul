@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_pickup_heart",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.20764172,
+  "exportDir":"",
+  "name":"snd_pickup_heart",
+  "parent":{
+    "name":"Gameplay",
+    "path":"folders/Sounds/Effects/Gameplay.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_pickup_heart.wav",
+  "volume":1.0,
+}

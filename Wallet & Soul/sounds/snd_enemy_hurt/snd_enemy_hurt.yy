@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_enemy_hurt",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.062063493,
+  "exportDir":"",
+  "name":"snd_enemy_hurt",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/Sounds/Effects/Gameplay/Enemies.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_enemy_hurt.wav",
+  "volume":1.0,
+}
