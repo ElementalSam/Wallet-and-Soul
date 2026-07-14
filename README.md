@@ -1,6 +1,6 @@
 # Wallet and Soul
 
-Wallet & Soul is a 2D platformer built in GameMaker Studio 2. It features split‑screen co‑op, diverse enemies, player customization, prebuilt levels, and a level generator! This project combines classic platformer mechanics with modern polish and scalability to provide a mixture of platformer and RPG elements.
+Wallet & Soul is a 2D platformer built in GameMaker Studio 2. It features split‑screen co‑op, diverse enemies, player customization, prebuilt levels, and a level generator! This project combines classic platformer mechanics with modern ideas to provide a fun mixture of platformer and RPG elements.
 
 FEATURES
 
