@@ -29,3 +29,24 @@ WalletAndSoul.yyp — main project file.
 /sprites — character and environment art assets.
 
 /rooms — levels and menus.
+
+The main menu, featuring a randomly selected splash text in the center.
+<img width="1920" height="1080" alt="Screenshot (1009)" src="https://github.com/user-attachments/assets/b54a42f7-0439-4da1-b11c-4c2b468b44ec" />
+
+The weapon shop where players buy and equip weapons, with a simple info page available.
+<img width="1920" height="1080" alt="Screenshot (1010)" src="https://github.com/user-attachments/assets/650351ad-fc32-473d-8dd5-16a46ada90a3" />
+
+The wallet menu where players buy and equip wallets, with a simple info page available.
+<img width="1920" height="1080" alt="Screenshot (1011)" src="https://github.com/user-attachments/assets/7ffbfed3-1dfc-4b67-a845-e222feed2eea" />
+
+The "Play" menu, where players choose the generator or a category of premade levels.
+<img width="1920" height="1080" alt="Screenshot (1012)" src="https://github.com/user-attachments/assets/0607273c-0e44-44ec-93e1-0fae3375e689" />
+
+A ranged enemy shooting a sword projectile at a player.
+<img width="1920" height="1080" alt="Screenshot (1015)" src="https://github.com/user-attachments/assets/72b41b32-53a7-4109-bd04-b1e379379c7f" />
+
+A player about to strike a basic patrol enemy.
+<img width="1920" height="1080" alt="Screenshot (1017)" src="https://github.com/user-attachments/assets/8b8210b5-4c94-47e3-ad4b-2517dae1447b" />
+
+Two players can decide if the splitscreen is vertical or horizontal.
+<img width="1920" height="1080" alt="Screenshot (1018)" src="https://github.com/user-attachments/assets/6935fc9b-a4c1-46e7-8677-c59909d007f8" />
